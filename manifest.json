@@ -1,0 +1,28 @@
+{
+  "name": "Bullet Journal 2026 · Angie",
+  "short_name": "BJ Angie",
+  "description": "Bullet Journal personal 2026",
+  "start_url": "/bullet-journal-app/",
+  "scope": "/bullet-journal-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09080c",
+  "theme_color": "#c8a84a",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["productivity", "lifestyle"]
+}
